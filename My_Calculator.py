@@ -71,4 +71,4 @@ Button(text='Calculate',
 
 
 root.mainloop()
-#говно залупа пенис хер
+#говно 
