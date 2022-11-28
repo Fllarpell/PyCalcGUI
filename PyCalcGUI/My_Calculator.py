@@ -71,4 +71,4 @@ Button(text='Calculate',
 
 
 root.mainloop()
-#говно 
+#говно
